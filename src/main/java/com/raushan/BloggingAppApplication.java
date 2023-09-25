@@ -11,6 +11,10 @@ public class BloggingAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BloggingAppApplication.class, args);
 	}
+
+// before git stash
+int a =1;
+int b= 4;
 	
 	@Bean
 	public ModelMapper modelMapper() {
