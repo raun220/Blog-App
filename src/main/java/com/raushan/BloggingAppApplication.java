@@ -19,4 +19,9 @@ public class BloggingAppApplication {
 	//System.out.println("Raushan");
         // System.out.println("Raushan from Git Local Repo");
 
+      // to apply change after git stash
+      doublr x = 19.09;
+      double y = 34.98;
+      double sumAfterStash = x+y;
+
 }
