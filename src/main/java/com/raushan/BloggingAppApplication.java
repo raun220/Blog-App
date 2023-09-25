@@ -19,6 +19,10 @@ public class BloggingAppApplication {
 	//System.out.println("Raushan");
         // System.out.println("Raushan from Git Local Repo");
 
+// After git stash
+double x=78.09;
+double y=98.83;
+
 
 
 }
